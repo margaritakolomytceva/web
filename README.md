@@ -4,4 +4,4 @@
 
 [Чек-лист для тестирования приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/18qz2rKZyhEpV7AwkLGYukzE0aDy8REYhTDZYbAbVxMQ/edit#gid=0)
 
-[Тест-кейсы для тестирования приложения "Интернет-магазин"](https://github.com/margaritakolomytceva/web/files/15241162/-.pdf)
+[Тест-кейсы для тестирования приложения "Интернет-магазин"](https://github.com/margaritakolomytceva/web/files/15244608/-.-.pdf)
