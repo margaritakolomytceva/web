@@ -5,3 +5,7 @@
 [Чек-лист для тестирования приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/18qz2rKZyhEpV7AwkLGYukzE0aDy8REYhTDZYbAbVxMQ/edit#gid=0)
 
 [Тест-кейсы для тестирования приложения "Интернет-магазин"](https://github.com/margaritakolomytceva/web/files/15244608/-.-.pdf)
+
+[Результаты тестового прогона в Qase](https://github.com/margaritakolomytceva/web/files/15348823/G7-Express%2Brun%2B2024_05_14.pdf)
+
+[Отчет о дефектах ](https://github.com/margaritakolomytceva/web/files/15349048/Issues.2.xlsx)
