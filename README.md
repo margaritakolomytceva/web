@@ -8,4 +8,4 @@
 
 [Результаты тестового прогона в Qase](https://github.com/margaritakolomytceva/web/files/15348823/G7-Express%2Brun%2B2024_05_14.pdf)
 
-[Отчет о дефектах ](https://github.com/margaritakolomytceva/web/files/15349048/Issues.2.xlsx)
+[Отчеты о дефектах](https://github.com/margaritakolomytceva/web/files/15365832/default.xlsx)
