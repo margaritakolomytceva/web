@@ -9,3 +9,5 @@
 [Результаты тестового прогона в Qase](https://github.com/margaritakolomytceva/web/files/15348823/G7-Express%2Brun%2B2024_05_14.pdf)
 
 [Отчеты о дефектах](https://github.com/margaritakolomytceva/web/files/15365832/default.xlsx)
+
+[Перехват трафика в Fiddler Everywhere](https://drive.google.com/drive/folders/1hJF3j5jjRPh8zOWApdSRodIzDx5cSWff)
