@@ -6,10 +6,10 @@
 
 -[Чек-лист для тестирования приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/18qz2rKZyhEpV7AwkLGYukzE0aDy8REYhTDZYbAbVxMQ/edit#gid=0) - список проверок, которые я предложила для сайта;
 
--[Тест-кейсы для тестирования приложения "Интернет-магазин"](https://github.com/margaritakolomytceva/web/files/15244608/-.-.pdf) - 42 тест-кейса, которые были разработаны и запущеныв тестовый прогон;
+-[Тест-кейсы для тестирования приложения "Интернет-магазин"](https://github.com/margaritakolomytceva/web/files/15244608/-.-.pdf) - 42 тест-кейса, которые были разработаны и запущены в тестовом прогоне;
 
 -[Результаты тестового прогона в Qase](https://github.com/margaritakolomytceva/web/files/15348823/G7-Express%2Brun%2B2024_05_14.pdf);
 
--[Отчеты о дефектах](https://github.com/margaritakolomytceva/web/files/15365832/default.xlsx) - перечень дефектов
+-[Отчеты о дефектах](https://github.com/margaritakolomytceva/web/files/15365832/default.xlsx) - 30 дефектов обнаружены в результате тестирования;
 
--[Перехват трафика в Fiddler Everywhere](https://drive.google.com/drive/folders/1hJF3j5jjRPh8zOWApdSRodIzDx5cSWff)
+-[Перехват трафика в Fiddler Everywhere](https://drive.google.com/drive/folders/1hJF3j5jjRPh8zOWApdSRodIzDx5cSWff).
